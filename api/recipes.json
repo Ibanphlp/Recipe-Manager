@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2,
+    "name": "Gâteau au chocolat",
+    "preparationTime": 30,
+    "difficulty": "easy",
+    "ingredients": [
+      "200 g de chocolat noir",
+      "100 g de beurre",
+      "100 g de sucre",
+      "3 œufs",
+      "50 g de farine"
+    ],
+    "instructions": "1. Préchauffer le four à 180°C. 2. Faire fondre le chocolat avec le beurre. 3. Ajouter le sucre et les œufs, puis mélanger. 4. Incorporer la farine. 5. Verser dans un moule beurré et cuire pendant 20 minutes."
+  },
+  {
+    "id": 4,
+    "name": "Pâtes à la carbonara",
+    "preparationTime": 20,
+    "difficulty": "easy",
+    "ingredients": [
+      "200 g de pâtes",
+      "100 g de lardons",
+      "2 œufs",
+      "50 g de parmesan râpé",
+      "Poivre"
+    ],
+    "instructions": "1. Faire cuire les pâtes dans de l'eau bouillante salée. 2. Faire revenir les lardons dans une poêle. 3. Mélanger les œufs avec le parmesan et le poivre. 4. Égoutter les pâtes en conservant un peu d'eau de cuisson. 5. Hors du feu, mélanger les pâtes avec les lardons et la préparation aux œufs. Ajouter un peu d'eau de cuisson pour obtenir une sauce crémeuse."
+  },
+  {
+    "id": 9,
+    "name": "Omelette au fromage",
+    "preparationTime": 10,
+    "difficulty": "easy",
+    "ingredients": [
+      "3 œufs",
+      "50 g de fromage râpé",
+      "10 g de beurre",
+      "Sel",
+      "Poivre"
+    ],
+    "instructions": "1. Casser les œufs dans un bol et les battre avec le sel et le poivre. 2. Faire fondre le beurre dans une poêle. 3. Verser les œufs battus dans la poêle. 4. Lorsque les œufs commencent à prendre, ajouter le fromage râpé. 5. Plier l'omelette et poursuivre la cuisson jusqu'à obtenir la texture souhaitée."
+  },
+  {
+    "id": 8,
+    "name": "Tarte au citron meringuée",
+    "preparationTime": 60,
+    "difficulty": "medium",
+    "ingredients": [
+      "1 pâte sablée",
+      "3 citrons",
+      "150 g de sucre",
+      "3 œufs",
+      "100 g de beurre",
+      "3 blancs d'œufs",
+      "100 g de sucre glace"
+    ],
+    "instructions": "1. Préchauffer le four à 180°C et cuire la pâte sablée à blanc pendant environ 15 minutes. 2. Mélanger le jus des citrons, 100 g de sucre et les œufs dans une casserole. 3. Faire chauffer à feu doux en remuant jusqu'à épaississement. 4. Incorporer le beurre hors du feu et laisser tiédir. 5. Verser la crème au citron sur la pâte précuite. 6. Monter les blancs en neige en ajoutant progressivement le sucre glace. 7. Répartir la meringue sur la tarte et faire dorer quelques minutes au four."
+  },
+  {
+    "id": 10,
+    "name": "Pizza margherita",
+    "preparationTime": 35,
+    "difficulty": "medium",
+    "ingredients": [
+      "1 pâte à pizza",
+      "150 g de sauce tomate",
+      "150 g de mozzarella",
+      "Quelques feuilles de basilic",
+      "1 cuillère à soupe d'huile d'olive",
+      "Sel"
+    ],
+    "instructions": "1. Préchauffer le four à 220°C. 2. Étaler la pâte à pizza sur une plaque. 3. Répartir la sauce tomate sur la pâte. 4. Ajouter la mozzarella coupée en morceaux. 5. Arroser d'un filet d'huile d'olive. 6. Cuire pendant 12 à 15 minutes jusqu'à ce que la pâte soit dorée. 7. Ajouter les feuilles de basilic avant de servir."
+  },
+  {
+    "id": 11,
+    "name": "Crêpes faciles",
+    "preparationTime": 25,
+    "difficulty": "easy",
+    "ingredients": [
+      "250 g de farine",
+      "3 œufs",
+      "500 ml de lait",
+      "30 g de beurre fondu",
+      "1 sachet de sucre vanillé",
+      "1 pincée de sel"
+    ],
+    "instructions": "1. Verser la farine et le sel dans un saladier. 2. Ajouter les œufs et mélanger. 3. Incorporer progressivement le lait en fouettant pour éviter les grumeaux. 4. Ajouter le beurre fondu et le sucre vanillé. 5. Laisser reposer la pâte pendant 15 minutes si possible. 6. Faire chauffer une poêle légèrement beurrée. 7. Verser une louche de pâte et cuire chaque crêpe environ 1 minute de chaque côté."
+  }
+]
